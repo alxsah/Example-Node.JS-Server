@@ -1,2 +1,2 @@
 # Example-Node.JS-Server
-A Node.js and Express server which shows basic routing and serving HTML files
+An Express, Angular and Node.js example showing basic routing and handling input
